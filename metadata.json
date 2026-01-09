@@ -1,0 +1,5 @@
+{
+  "name": "IntervalFlow AI",
+  "description": "A customizable, mobile-first interval timer for fitness. Features custom sequences, looping, and AI-generated workouts powered by Gemini.",
+  "requestFramePermissions": []
+}
